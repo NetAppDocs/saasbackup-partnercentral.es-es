@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_register.html 
+keywords: Partner Central, SaaS Backup, NetApp SSO, register, sign up, partner, registration 
+summary: Puede registrarse como socio y, a continuación, empezar a agregar y administrar clientes en la interfaz de Partner Central. 
+---
+= Regístrese en SaaS Backup Partner Central de NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+En SaaS Backup Partner Central de NetApp, puede registrarse como partner. Después de registrarse, puede comenzar a agregar y administrar clientes en la interfaz.
+
+.Pasos
+. Vaya a. link:https://saasbackup.netapp.com/partner-central/["Centro de partners de SaaS Backup"].
++
+image:partner_sign_in_page.png["Página de inicio de sesión de Partner Central"]
+
+. Seleccione su región en el menú desplegable. La región predeterminada es Estados Unidos.
+. Para registrarse, lea y acepte las *Condiciones de Servicios*.
+. Haga clic en *NetApp SSO*.
+. En la página de inicio de sesión de NetApp, inicie sesión con sus credenciales de SSO de NetApp.
+. Introduzca la información de registro solicitada. Para solicitar un código de activación, póngase en contacto con la administración del producto SaaS Backup.
++
+image:register_sign_up.png["página de registro"]
+
+. Haga clic en *Registrar*.
+

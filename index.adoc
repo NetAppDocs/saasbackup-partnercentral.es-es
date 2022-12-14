@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+summary: Bienvenido al portal de documentación de SaaS Backup de NetApp para Partner Central. 
+---
+= Documentación de NetApp SaaS Backup Partner Central
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information
+
+
+SaaS Backup Partner Central de NetApp es una interfaz que ayuda a los partners de NetApp a gestionar y dar soporte a clientes que usan SaaS Backup para Microsoft 365. Proporciona pasos para registrarse en Partner Central, gestionar a sus clientes y modificar la configuración y la información de socios y clientes.
+
+
+
+== Descubra las novedades
+
+* link:partnercentral_reference_new.html["Notas de la versión"]
+* Para obtener actualizaciones de productos, vídeos de procedimientos e información sobre la salud de sus servicios, vaya a la vista del panel * Qué hay de nuevo*.
++
+image:whats_new.png["Partner Central *Novedades*"]
+
+
+
+
+
+== Manos a la obra
+
+* link:partnercentral_task_register.html["Regístrese en Partner Central"]
+* link:partnercentral_task_add_and_manage_customers.html["Añadir y gestionar clientes"]
+
+
+
+
+== Obtenga ayuda, encuentre más información y proporcione sus comentarios
+
+* Para acceder a diferentes recursos de asistencia técnica, vaya a *asistencia* en la interfaz de usuario de Partner Central.
++
+image:support_page.png["Página de soporte"]
+
++
+La página *Soporte* proporciona acceso a artículos de *base de conocimiento*, *Comunidades*, el *Manual del usuario* para SaaS Backup para Microsoft 365, y el *Centro de confianza*. También puede proporcionar comentarios y hacer preguntas si selecciona *Comuníquese con nosotros*.
+
+* link:https://cloud.netapp.com/saas-backup["Página de producto de SaaS Backup para Microsoft 365"]
+* link:https://docs.netapp.com/us-en/saasbackupO365/["Documentación del usuario de SaaS Backup para Microsoft 365"]
+
