@@ -49,9 +49,7 @@
   <block id="ecac10bc87d9557f64906694680e0cb4" category="list-text">*Trabajos*</block>
   <block id="5e7be6d03d7b3fe38948144b583c0328" category="inline-image-macro">estadísticas gráficas</block>
   <block id="602f092c2d9838be5216db05e74ddc1f" category="paragraph"><block ref="602f092c2d9838be5216db05e74ddc1f" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">Puede agregar y administrar claves para mejorar la seguridad en Partner Central. También es compatible con la interfaz de cmdlets de PowerShell.</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">Administrar claves</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">Puede agregar y administrar claves para mejorar la seguridad en Partner Central desde la configuración *Gestión de claves*. También es compatible con la interfaz de cmdlets de PowerShell.</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">Agregar claves</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">Seleccione *Gestión de claves* en el menú desplegable.</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">gestión de claves del menú desplegable de configuración</block>
@@ -70,13 +68,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">mostrar icono de tecla</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">ocultar icono de tecla</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">Haga clic en <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> para mostrar la clave sin cifrar y haga clic en <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> para ocultar la clave sin cifrar.</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">Descargue PowerShell</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">Descargue el icono de PowerShell</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">Para descargar PowerShell, haga clic en <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>.</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">Instale el programa descargado.</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">Tras la instalación del programa, haga doble clic en el icono *SaaS Backup PowerShell* en el escritorio para iniciar el cmdlet de PowerShell.</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">Guía NetApp SaaS Backup PowerShell (TR-4873)</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">Si quiere más información sobre el uso del módulo NetApp SaaS Backup PowerShell, consulte <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>.</block>
   <block id="2f2cdfaae11387cf447edda4e8b53a03" category="summary">Puede agregar y gestionar a sus clientes en SaaS Backup Partner Central.</block>
   <block id="1c5f859d60bac24aa56f41c122c66ccb" category="doc">Agregar, eliminar y administrar clientes</block>
   <block id="567d391229108ec1470ec569d0d69313" category="paragraph">Puede agregar y eliminar clientes en SaaS Backup Partner Central. Para administrar los datos de los clientes, usará la interfaz de usuario de SaaS Backup para Microsoft 365.</block>
@@ -245,4 +236,6 @@
   <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">Gestionar configuración</block>
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">Administrar claves</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">Dónde encontrar ayuda y información</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">Puede agregar y administrar claves para mejorar la seguridad en Partner Central.</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">Puede agregar y administrar claves para mejorar la seguridad en Partner Central desde la configuración *Gestión de claves*.</block>
 </blocks>

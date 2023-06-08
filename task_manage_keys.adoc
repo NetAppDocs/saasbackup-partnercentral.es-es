@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_task_manage_keys.html 
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
-summary: Puede agregar y administrar claves para mejorar la seguridad en Partner Central. También es compatible con la interfaz de cmdlets de PowerShell. 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: Puede agregar y administrar claves para mejorar la seguridad en Partner Central. 
 ---
 = Administrar claves
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Puede agregar y administrar claves para mejorar la seguridad en Partner
 
 
 [role="lead"]
-Puede agregar y administrar claves para mejorar la seguridad en Partner Central desde la configuración *Gestión de claves*. También es compatible con la interfaz de cmdlets de PowerShell.
+Puede agregar y administrar claves para mejorar la seguridad en Partner Central desde la configuración *Gestión de claves*.
 
 
 
@@ -43,20 +43,3 @@ image:add_key_screen.png["pantalla de teclas agregar"]
 
 . Haga clic en image:eye_show_key_icon.png["mostrar icono de tecla"] para mostrar la clave sin cifrar y haga clic en image:eye_hide_key_icon.png["ocultar icono de tecla"] para ocultar la clave sin cifrar.
 
-
-
-
-== Descargue PowerShell
-
-.Pasos
-. Desde la consola, haga clic en image:settings_icon.png["icono de ajustes"].
-. Seleccione *Gestión de claves* en el menú desplegable.
-+
-image:settings_key_management.png["gestión de claves del menú desplegable de configuración"]
-
-. Para descargar PowerShell, haga clic en image:download_powershell_icon.png["Descargue el icono de PowerShell"].
-. Instale el programa descargado.
-. Tras la instalación del programa, haga doble clic en el icono *SaaS Backup PowerShell* en el escritorio para iniciar el cmdlet de PowerShell.
-
-
-Si quiere más información sobre el uso del módulo NetApp SaaS Backup PowerShell, consulte link:https://fieldportal.netapp.com/content/1255854["Guía NetApp SaaS Backup PowerShell (TR-4873)"].
